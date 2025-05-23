@@ -1,5 +1,7 @@
 # Windows 11 Context Menu Toggle Scripts
 
+![preview](preview.png)
+
 This repository provides batch scripts to toggle between the classic (Windows 10-style) and the default (Windows 11-style) right-click context menus.
 
 ## Scripts
